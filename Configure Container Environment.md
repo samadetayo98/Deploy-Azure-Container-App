@@ -9,7 +9,7 @@ Step 1: After creating the database (demodb), You create the backend container a
 
 Step 2: You have to add the environment variable from the database
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/683edea1-b84d-4ff8-b48e-944d08ac9bf3" />
-<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/31952b60-690e-4a8f-b07e-0391ce6fc548" />
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/6be63e3e-9cc1-4514-b628-d82870325ea2" />
 
 Step 3: Set the Ingress to 8000
 <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/9ac8ea29-33e2-4b1f-a94b-6077c4aa3604" />
